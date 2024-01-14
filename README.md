@@ -1,17 +1,16 @@
-Thomas Chardin
-Salut ! Je suis Thouay Teddy André Baccam, un passionné d'informatique de 26 ans vivant à Marseille et d'origine franco-laotienne.
+# Thomas Chardin
 
-À propos de moi
-💻 Étudiant en informatique à "La Plateforme", où je me plonge dans le monde du codage, du réseau et de la cybersécurité.
-📚 J'ai des bases solides dans divers domaines de l'informatique.
-🚫 Pas vraiment fan de Java, mais je me débrouille bien en HTML et CSS.
-🔒 Mon objectif est de me spécialiser en cybersécurité pour assurer la protection des données et des systèmes.
-📽️ Passionné de cinéma et de cinématographie.
-🎨 Amateur d'art sous toutes ses formes.
-🖼️ Mon artiste préféré est Vincent van Gogh.
-📖 Mon livre favori : "Le Portrait de Dorian Gray" par Oscar Wilde.
-Contact
-📧 Email de l'école : thouay.baccam@laplateforme.io
-📧 Email professionnel : tedbaccam@outlook.fr
-🔗 LinkedIn
-DEDICACE A THÉO, LELYO, RACHID & CHAIMA, LES B.B.B.B.B
+Salut ! 👋 Je suis Thomas Chardin, passionné par la sécurité informatique et OSINT basé à Marseille.
+
+## À propos de moi
+
+- 💻 Étudiant en informatique à "La Plateforme", plongé dans le monde du codage, du réseau et de la cybersécurité.
+- 📚 Bases dans divers domaines de l'informatique.
+- 🔒 Objectif : spécialisation en cybersécurité pour assurer la protection des données et des systèmes.
+- 📽️ Passionné de jeux video et de nouvelles technologies.
+
+## Contact
+
+- 📧 Email de l'école : thomas.chardin@laplateforme.io
+- 📧 Email professionnel : chardint@yahoo.com
+- 🔗 [LinkedIn]https://www.linkedin.com/in/thomas-chardin-02a881196/
