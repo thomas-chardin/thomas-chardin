@@ -1,6 +1,6 @@
 # Thomas Chardin
 
-Salut ! 👋 Je suis Thomas Chardin, passionné par la sécurité informatique et OSINT basé à Marseille.
+Salut ! 👋 Je suis Thomas Chardin, passionné par la sécurité informatique et OSINT.
 
 ## À propos de moi
 
