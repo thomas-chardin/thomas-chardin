@@ -13,4 +13,4 @@ Salut ! 👋 Je suis Thomas Chardin, passionné par la sécurité informatique e
 
 - 📧 Email de l'école : thomas.chardin@laplateforme.io
 - 📧 Email professionnel : chardint@yahoo.com
-- 🔗 [LinkedIn]https://www.linkedin.com/in/thomas-chardin-02a881196/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thomas-chardin-02a881196/)
