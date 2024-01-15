@@ -7,7 +7,7 @@ Salut ! 👋 Je suis Thomas Chardin, passionné par la sécurité informatique e
 - 💻 Étudiant en informatique à "La Plateforme", plongé dans le monde du codage, du réseau et de la cybersécurité.
 - 📚 Bases dans divers domaines de l'informatique.
 - 🔒 Objectif : spécialisation en cybersécurité pour assurer la protection des données et des systèmes.
-- 📽️ Passionné de jeux video et de nouvelles technologies.
+- 📽️ Passionné de jeux video et des nouvelles technologies.
 
 ## Contact
 
